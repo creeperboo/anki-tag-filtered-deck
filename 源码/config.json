@@ -1,0 +1,9 @@
+{
+  "default_parent": "标签筛选",
+  "default_states": ["new", "learn", "review"],
+  "default_include_not_due": false,
+  "default_order": 6,
+  "default_limit": 9999,
+  "auto_rebuild": true,
+  "update_check": true
+}

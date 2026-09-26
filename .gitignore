@@ -1,0 +1,18 @@
+# 打包产物（每次运行安装脚本会自动重新生成）
+标签筛选牌组-源码.zip
+
+# 打包/运行时产生的临时文件
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 本机备份与运行数据，不进仓库
+_备份/
+user_files/
+update.json
+
+# 系统杂物
+Thumbs.db
+desktop.ini
+.DS_Store
